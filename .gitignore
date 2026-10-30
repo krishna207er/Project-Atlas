@@ -1,0 +1,6 @@
+.env
+node_modules
+debug.log
+dist/
+README.md
+package.json
